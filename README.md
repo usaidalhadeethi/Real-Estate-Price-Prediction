@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction
 
-## This project demonstrates the use of machine learning to predict numerical values using Ridge Regression. The model is trained on a custom dataset and deployed on a local web application using Streamlit.
+This project demonstrates the use of machine learning to predict numerical values using Ridge Regression. The model is trained on a custom dataset and deployed on a local web application using Streamlit.
 
 
 ## Project Files:
