@@ -1,6 +1,6 @@
 # Real-Estate-Price-Prediction
 
-**This project demonstrates the use of machine learning to predict numerical values using Ridge Regression. The model is trained on a custom dataset and deployed on a local web application using Streamlit.
+## This project demonstrates the use of machine learning to predict numerical values using Ridge Regression. The model is trained on a custom dataset and deployed on a local web application using Streamlit.
 
 veri.ipynb: Generates the custom dataset (veri.csv).
 algoritma.ipynb: Trains and evaluates machine learning models; selects the best model.
