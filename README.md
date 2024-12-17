@@ -2,12 +2,7 @@
 
 ## This project demonstrates the use of machine learning to predict numerical values using Ridge Regression. The model is trained on a custom dataset and deployed on a local web application using Streamlit.
 
-veri.ipynb: Generates the custom dataset (veri.csv).
-algoritma.ipynb: Trains and evaluates machine learning models; selects the best model.
-eniyi.joblib: The best-performing model for predictions.
-veri.csv: The custom dataset used for training models.
-app.py: Streamlit app for real-time predictions using the Ridge Regression (the best-performing model) model.
-requirements.txt: Lists dependencies required for the project.
+
 ## Project Files:
 
 * **veri.ipynb:** Generates the custom dataset (veri.csv).
@@ -43,5 +38,6 @@ requirements.txt: Lists dependencies required for the project.
    streamlit run app.py
 ```
 
+## App UI :
 ![Screenshot 2024-12-18 013542](https://github.com/user-attachments/assets/b2f587aa-9546-472d-bac3-f22708d34dbb)
 
